@@ -1,0 +1,4 @@
+@font-face {
+font-family: 'BPG GEL DejaVuSerif';
+src: url('../fonts/bpg.ttf');
+}
